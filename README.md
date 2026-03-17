@@ -17,8 +17,8 @@ Cada pasta representa um trabalho diferente;
 
 ## 🛠 Tecnologias utilizadas
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * PHP
 
