@@ -29,6 +29,7 @@ Sessions são geralmente preferidas para autenticação em sistemas web porque o
 
 Ao autenticar usuários em sistemas web, alguns fatores são inegavelmente essenciais para o desenvolvimento de um site seguro e eficiente. Como mencionado nas respostas anteriores, o uso de sessions representa maior segurança no local de armazenamento de dados, ou seja, estes serão armazenados no servidor e, por conseguinte, são menos suscetíveis a serem manipulados pelo usuário.
 Por essa razão, é preferível utilizar sessions no acesso dos mesmos principalmente já que os sessions reduzem a exposição dos dados sensíveis. Sendo assim, os dados são controlados pelo servidor e não pelo usuário, diferentemente dos cookies. Em relação aos riscos ao usar apenas cookies, é importante ressaltar intercepted, stolen via malicious scripts.
+Dessa forma, sessions oferecem uma camada adicional de proteção ao centralizar o controle no servidor, enquanto o uso exclusivo de cookies amplia a superfície de ataque e a vulnerabilidade dos dados.
 
 ## Referências
 
@@ -38,3 +39,5 @@ Por essa razão, é preferível utilizar sessions no acesso dos mesmos principal
 - O que são Cookies na Internet e como eles funcionam? Disponível em: https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam
 - Session-Based Authentication: A Detailed Guide. Disponível em: https://supertokens.com/blog/session-based-authentication
 - PHP Manual. Disponível em: https://www.php.net/manual/pt_BR/
+- Usando sessões no PHP para autenticação de usuários. Disponível em: https://www.hiperbytes.com.br/sessoes-php-para-autenticacao-de-usuarios/
+ 
