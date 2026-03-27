@@ -10,48 +10,47 @@ Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio
 2ºC1
 
 ## Autores
-Henrique Silvestre Martin
-Isabella Fernanda da Silva Barbosa
+Henrique Silvestre Martin e Isabella Fernanda da Silva Barbosa
 
 ---
 
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
 ### Descrição
-Objetivo, funcionalidade e modificações.
+O projeto "Helloworld" tem como objetivo exibir na tela uma mensagem de boas-vindas ao usuário. Ao receber o clique do botão de ação, o aplicativo exibe a mensagem "Olá Mundo" na tela. Comparando ao modelo sugerido, foi realizada a adição de arranjos de organização, redução do tamanho da imagem central, alteração nas cores dos textos dos botões e da cor de fundo do aplicativo.
 
 ## Print do Design
-Colocar imagem
+<img src="images/app1-design.png" width="250">
 
 ## 🔗 Print dos Blocos
-Colocar imagem
+<img src="images/app1-blocks.png" width="400">
 
 ---
 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
 ## Descrição
-Objetivo, funcionalidade e modificações.
+O projeto “Pintar” tem como objetivo permitir que o usuário “pinte” sobre uma imagem com cores diferentes, além de limpar a tela. Com as opções vermelho, verde, azul e amarelo, o aplicativo seleciona com base no botão clicado a cor da utilizada no desenho feito pelo usuário. Em relação ao modelo da apostila, foi realizada a alteração da cor de fundo e otimização do design pela mudança no tamanho do botão de ação.
 
 ## Print do Design
-Colocar imagem
+<img src="images/app2-design.png" width="250">
 
 
 ## Print dos Blocos
-Colocar imagem
+<img src="images/app2-blocks.png" width="400">
 
 ---
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
 
 ## Descrição
-Objetivo, funcionalidade e modificações.
+O projeto “Liquidificador” tem como objetivo reproduzir um som com o clique na imagem exibida. Quando o usuário clica na imagem do liquidificador, um som é reproduzido juntamente com uma vibração. Comparando com o modelo proposto, foi realizada a diminuição dos milissegundos da vibração.
 
 ## Print do Design
-Colocar imagem
+<img src="images/app3-design.png" width="250">
 
 ## 🔗 Print dos Blocos
-Colocar imagem
+<img src="images/app3-blocks.png" width="400">
 
 ---
 
