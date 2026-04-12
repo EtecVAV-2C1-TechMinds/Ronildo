@@ -52,15 +52,15 @@ O aplicativo possui uma tela inicial simples, que direciona o usuário para um m
 # Print das telas do Design
 
 ## Tela Inicial
-![Tela Inicial - Design](imagens/tela_inicial_design.png)
+![Tela Inicial - Design](imagens/tela_inicial_design.jpg)
 
 ## Tela Menu
-![Menu - Design](imagens/tela_menu_design.png)
+![Menu - Design](imagens/tela_menu_design.jpg)
 
 ## Tela Quiz
-![Quiz 1 - Design](imagens/tela_quiz_design_1.png)  
-![Quiz 2 - Design](imagens/tela_quiz_design_2.png)  
-![Quiz 3 - Design](imagens/tela_quiz_design_3.png)
+![Quiz 1 - Design](imagens/tela_quiz_design_1.jpg)  
+![Quiz 2 - Design](imagens/tela_quiz_design_2.jpg)  
+![Quiz 3 - Design](imagens/tela_quiz_design_3.jpg)
 
 
 # Print das telas dos Blocos
