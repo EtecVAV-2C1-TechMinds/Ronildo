@@ -43,8 +43,6 @@ O aplicativo possui uma tela inicial simples, que direciona o usuário para um m
   - Elefantes de guerra na Índia  
   - A Grande Muralha como sistema militar  
 
-  Ao final da tela, há uma funcionalidade interativa onde o usuário pode clicar na imagem de uma bomba e ouvir um efeito sonoro.
-
 - Tela de Quiz: contém 4 perguntas relacionadas ao conteúdo do aplicativo.  
   No final, há um teste de conhecimento onde o usuário tenta identificar o lugar mais seguro, podendo visualizar o resultado e reiniciar o quiz.
 
@@ -93,12 +91,12 @@ O aplicativo apresenta uma proposta original com foco em educação histórica, 
 ![Quiz 3 - Design](imagens/tela_quiz_design_3.png)
 
 ## Tela Conflitos
-![Tela Conflitos 1 - Design](imagens/ScreenConflitos.1)  
-![Tela Conflitos 2 - Design](imagens/ScreenConflitos.2)
+![Tela Conflitos 1 - Design](imagens/ScreenConflitos.1.jpeg)  
+![Tela Conflitos 2 - Design](imagens/ScreenConflitos.2.jpeg)
 
 ## Tela Curiosidades
-![Tela Curiosidades 1 - Design](imagens/ScreenCuriosidades.1)
-![Tela Curiosidades 2 - Design](imagens/ScreenCuriosidades.2)
+![Tela Curiosidades 1 - Design](imagens/ScreenCuriosidades.1.jpeg)
+![Tela Curiosidades 2 - Design](imagens/ScreenCuriosidades.2.jpeg)
 
 # Print das telas dos Blocos
 
