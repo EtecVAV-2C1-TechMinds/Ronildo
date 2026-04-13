@@ -70,3 +70,72 @@ Em comparação com os modelos da apostila, é possível identificar diversas id
 - Uso de listas para o sistema de perguntas e respostas e a exibição de arrangements conforme a intenção do usuário;
 - Ocultação da visibilidade de componentes para promover maior interação entre usuário e aplicativo.
 
+## 🖥 Print das telas do Design
+
+Screen1
+
+<img src="images/screen1-print.jpeg" width="200">
+
+Tela inicial
+
+<img src="images/inicial-print1.jpeg" width="190">
+<img src="images/inicial-print2.jpeg" width="190">
+<img src="images/inicial-print3.jpeg" width="190">
+
+Guia de Segurança
+
+<img src="images/guia-print1.jpeg" width="190">
+<img src="images/guia-print2.jpeg" width="190">
+
+Linha do Tempo
+
+<img src="images/linha-print1.jpeg" width="190">
+<img src="images/linha-print2.jpeg" width="190">
+
+Principais Conflitos
+
+<img src="images/conflitos-print1.jpeg" width="190">
+<img src="images/conflitos-print2.jpeg" width="190">
+
+GeoQuiz
+
+<img src="images/map2-print1.jpeg" width="190">
+<img src="images/map2-print2.jpeg" width="190">
+<img src="images/map-print1.jpeg" width="190">
+<img src="images/map-print2.jpeg" width="190">
+<img src="images/mapfim-print.jpeg" width="190">
+
+Exemplo Menu do Guia de Segurança
+
+<img src="images/menuguia-print.jpeg" width="190">
+
+
+
+## 🧩 Print das telas dos Blocos
+
+Screen 1
+
+<img src="images/screen1-blocks.png" width="250">
+
+Tela inicial
+
+<img src="images/inicial-blocks.png" width="250">
+
+Guia de Segurança
+
+<img src="images/guia-blocks.png" width="250">
+
+Linha do Tempo
+
+<img src="images/linha-blocks.png" width="350">
+
+Principais Conflitos
+
+<img src="images/conflitos-blocks.png" width="350">
+
+GeoQuiz (início, quiz e fim)
+
+<img src="images/map2-blocks.png" width="250">
+<img src="images/map-blocks.png" width="850">
+<img src="images/mapfim-blocks.png" width="550">
+
